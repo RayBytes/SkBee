@@ -6,7 +6,9 @@ settings:
 
   # Enable this to automatically check for SkBee updates
   # Disable this if you do not want to check for updates, or it takes too long/has issues checking
-  update-checker: true
+
+  # NOTICE: This does not work anymore as the shanebee repository is down. It is now automatically set to false.
+  update-checker: false
 
   # This is the namespace skbee uses for recipe ids and namespace expression.
   # You're free to use whatever you want as long as it follows the rules listed below
