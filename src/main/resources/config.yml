@@ -8,7 +8,7 @@ settings:
   # Disable this if you do not want to check for updates, or it takes too long/has issues checking
 
   # NOTICE:
-  # Update checker no longer works, as the main SkBee repository no longer works.
+  # Update checker no longer works, as the main SkBee repository is private
   # It is now automatically switched off.
   update-checker: false
 
